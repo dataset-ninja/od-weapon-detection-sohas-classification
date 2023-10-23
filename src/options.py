@@ -61,7 +61,7 @@ CLASSES_PREVIEW_PADDINGS: dict = None
 CLASSES_PREVIEW_ROWS: int = None
 CLASSES_PREVIEW_GAP: int = None
 CLASSES_PREVIEW_TAGS: List[str] = [
-    "knive", 
+    "knife", 
     "pistol", 
     "tarjeta", 
     "monedero", 
