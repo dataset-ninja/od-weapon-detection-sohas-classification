@@ -1,6 +1,6 @@
 Dataset **OD-WeaponDetection: Sohas Classification** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI4MDhfT0QtV2VhcG9uRGV0ZWN0aW9uOiBTb2hhcyBDbGFzc2lmaWNhdGlvbi9vZC13ZWFwb25kZXRlY3Rpb246LXNvaGFzLWNsYXNzaWZpY2F0aW9uLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIkV1MkQrTzBRKzFvVFNTek1DR0VQN0xqOHJnWktWaVBlMnRtVHczb3dENDQ9In0=)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMjgwOF9PRC1XZWFwb25EZXRlY3Rpb246IFNvaGFzIENsYXNzaWZpY2F0aW9uL29kLXdlYXBvbmRldGVjdGlvbjotc29oYXMtY2xhc3NpZmljYXRpb24tRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiRHVLTVpzcTZZc1hqY3JDcVJwTitpYU1uSU1zc0hkZjZUWFo3clA2Qzh4Zz0ifQ==?response-content-disposition=attachment%3B%20filename%3D%22od-weapondetection%3A-sohas-classification-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
